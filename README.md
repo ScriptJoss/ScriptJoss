@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Eqz8ZFUScPHH2/giphy.gif" width="200" height="250" />   
-  <h1 aling="center">Holap 👋, Soy Josself</h1>
+  <h1 aling="center">Hola 👋, Soy Josself</h1>
   <h3 aling="center">Soy un progamador full stack developer de Colombia. Me gustan los videojuegos y otras cosas más.
 </div>
   
