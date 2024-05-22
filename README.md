@@ -13,9 +13,7 @@
 
 - 📫 Contáctame **josselfdev@gmail.com**
 
-- ⚡ Datos curioso de mí **Hábil para desarrollar...**
-
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
 <a href="https://twitter.com/masterjosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masterjosx" height="30" width="40" /></a>
 </p>
