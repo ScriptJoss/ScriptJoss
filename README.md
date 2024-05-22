@@ -9,8 +9,8 @@
   ### 🤔 Sobre mí :  
   
   - 🌴 15 años.
-  - 🤓 Aprendiendo **Java, Python, C#, C++**.
-  - 💬 Pregúntame sobre: **CSS, HTML, JavaScript**.
+  - 🤓 Aprendiendo **HTML, CSS, JS, C++, Python**.
+  - 💬 Conocimientos: **HTML, CSS, C++, Python**.
   - 📬 Contáctame: **josselfdev@gmail.com**.
   - 🌐 Sitio Web: **[Portfolio]()**.
   
@@ -21,6 +21,7 @@
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
   </div>
   
