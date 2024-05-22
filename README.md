@@ -23,7 +23,7 @@
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	  	<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-      		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+      		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   
   </div>
   
