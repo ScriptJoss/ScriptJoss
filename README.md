@@ -21,7 +21,8 @@
   <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  		<img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/python/python-original.svg" height="40" width="40">
+	  	<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    		<img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/python/python-original.svg" height="40" width="40">
   
   </div>
   
