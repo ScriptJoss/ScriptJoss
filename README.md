@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Eqz8ZFUScPHH2/giphy.gif" width="200" height="250" />   
-  <h1 aling="center">Hola 👋, Soy Josself</h1>
-  <h3 aling="center">Soy un progamador full stack developer de Colombia. Me gustan los videojuegos y otras cosas más.
+  <h1 aling="center">👋 ScriptJoss</h1>
+  <h3 aling="center">Programer Full Stack. Con ganas de aprender y desarrollar!
 </div>
   
   ---
@@ -23,6 +23,7 @@
 		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	  	<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+      		<img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   
   </div>
   
