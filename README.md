@@ -1,4 +1,4 @@
-### **¡Hola! Soy ScriptJoss** 👋
+# **¡Hola! Soy ScriptJoss** 👋
 
 Soy un apasionado programador de 16 años de Colombia con 4 años de experiencia en el mundo de la tecnología. Desde los 12 años, he estado sumergido en el fascinante universo de la programación, y no hay nada que disfrute más.
 
@@ -20,7 +20,7 @@ Soy un apasionado programador de 16 años de Colombia con 4 años de experiencia
 
 Gracias por ver mi trabajo. Si tienes alguna pregunta o estás interesado en colaborar, ¡no dudes en contactarme! 🚀
 
-# 💫 About Me:
+## 💫 Sobre mí:
 - 🔭 **Searching...**
 - 🌱 **Learning:** **C++**, **Python** y **JavaScript**.
 - 💬 **Ask me:** **HTML** y **CSS**.
