@@ -1,8 +1,30 @@
+**¡Hola! Soy ScriptJoss** 👋
+
+Soy un apasionado programador de 16 años de Colombia con 4 años de experiencia en el mundo de la tecnología. Desde los 12 años, he estado sumergido en el fascinante universo de la programación, y no hay nada que disfrute más.
+
+### Áreas de Interés 🚀
+
+- **Inteligencia Artificial**: 🤖 Me encanta la idea de las máquinas que pueden aprender y tomar decisiones por sí mismas.
+- **Ciberseguridad**: 🔒 Estoy dedicado a proteger los datos y mantener la seguridad en la red.
+- **Desarrollo Web**: 🌐 Disfruto creando sitios web interactivos y funcionales que no solo sean útiles, sino también atractivos.
+
+### Conocimientos Técnicos 💻
+
+- **HTML**: Para estructurar y dar contenido a las páginas web.
+- **CSS**: Para diseñar y hacer que las páginas web se vean increíbles.
+- **JavaScript**: Para agregar interactividad y dinamismo a las páginas web.
+
+### Alguien Alguna Vez Dijo... 🌟
+
+"El código es el puente entre la imaginación y la realidad" – Jeff Sikkel. Mi objetivo es seguir aprendiendo y creciendo, buscando siempre nuevas oportunidades para innovar y mejorar en el campo de la tecnología. Quiero desarrollar proyectos que no solo sean técnicamente impresionantes, sino que también tengan un impacto positivo.
+
+Gracias por ver mi trabajo. Si tienes alguna pregunta o estás interesado en colaborar, ¡no dudes en contactarme! 🚀
+
 # 💫 About Me:
-- 🔭 Working...
-- 🌱 Learning: **C++, Python, JS**
-- 💬 Ask me: **HTML, CSS**
-- 📫 Contact me: **josselfdev@gmail.com**<br>
+- 🔭 **Searching...**
+- 🌱 **Learning:** **C++**, **Python** y **JavaScript**.
+- 💬 **Ask me:** **HTML** y **CSS**.
+- 📫 **Contact me:** **josselfdev@gmail.com**<br>
 
 
 ## 🌐 Socials:
