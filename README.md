@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 Working
 - 🌱 Learning: **C++, Python, JS**
-- - 💬 Ask me: **HTML, CSS**
+- 💬 Ask me: **HTML, CSS**
 - 📫 Contact me: **josselfdev@gmail.com**<br>
 
 
