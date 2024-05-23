@@ -28,7 +28,7 @@ Gracias por ver mi trabajo. Si tienes alguna pregunta o estás interesado en col
 
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23606361) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ScriptJoss) [![Leet Code](https://img.shields.io/badge/leetcode.com-leetcode-orange?logo=leetcode
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23606361) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ScriptJoss) [![Leet Code]([https://img.shields.io/badge/leetcode.com-leetcode-orange?logo=leetcode](https://img.shields.io/badge/leetcode.com-orange?logo=leetcode)
 )](https://leetcode.com/users/ScriptJoss)
 
 # 💻 Tech Stack:
