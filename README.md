@@ -4,7 +4,6 @@ Soy un apasionado programador de 16 años de Colombia con 4 años de experiencia
 
 ## Áreas de Interés 🚀
 
-- **Inteligencia Artificial**: 🤖 Me encanta la idea de las máquinas que pueden aprender y tomar decisiones por sí mismas.
 - **Ciberseguridad**: 🔒 Estoy dedicado a proteger los datos y mantener la seguridad en la red.
 - **Desarrollo Web**: 🌐 Disfruto creando sitios web interactivos y funcionales que no solo sean útiles, sino también atractivos.
 
