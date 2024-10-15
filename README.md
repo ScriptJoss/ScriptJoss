@@ -21,7 +21,7 @@ Gracias por ver mi trabajo. Si tienes alguna pregunta o estás interesado en col
 
 ## 💫 Sobre mí:
 - 🔭 **Searching...**
-- 🌱 **Learning:**JavaScript, Backend With Python And NodeJS, Typescript, React, VueJS, Djanjo, Flask, Java**.
+- 🌱 **Learning: JavaScript, Backend With Python And NodeJS, Typescript, React, VueJS, Djanjo, Flask, Java**.
 - 💬 **Ask me:** **HTML**, **CSS**, **Python**, **C++**.
 - 📫 **Contact me:** **josselfdev@gmail.com**<br>
 
